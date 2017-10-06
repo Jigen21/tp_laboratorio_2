@@ -1,0 +1,24 @@
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\bin\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\bin\Debug\Entidades.pdb
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\obj\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\obj\Debug\Entidades.pdb
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\obj\Debug\Entidades.dll
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\obj\Debug\Entidades.pdb
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\bin\Debug\Entidades.dll
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Axelh\Desktop\TP-02\Entidades\obj\Debug\Entidades.dll
+C:\Users\Axelh\Desktop\TP-02\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Axelh\Desktop\TP-02\Entidades\bin\Debug\Entidades.dll
+C:\Users\Axelh\Desktop\TP-02\Entidades\bin\Debug\Entidades.pdb
+H:\los dos tps\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+H:\los dos tps\TP-02\Entidades\obj\Debug\Entidades.dll
+H:\los dos tps\TP-02\Entidades\bin\Debug\Entidades.dll
+H:\los dos tps\TP-02\Entidades\bin\Debug\Entidades.pdb
+H:\los dos tps\TP-02\Entidades\obj\Debug\Entidades.pdb
+E:\los dos tps\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+E:\los dos tps\TP-02\Entidades\obj\Debug\Entidades.dll
+E:\los dos tps\TP-02\Entidades\bin\Debug\Entidades.dll
+E:\los dos tps\TP-02\Entidades\bin\Debug\Entidades.pdb
+E:\los dos tps\TP-02\Entidades\obj\Debug\Entidades.pdb
