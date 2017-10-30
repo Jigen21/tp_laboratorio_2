@@ -1,0 +1,18 @@
+C:\Users\Axelh\Desktop\tp3\Quinteros.Axel.2A.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\Axelh\Desktop\tp3\Quinteros.Axel.2A.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Axelh\Desktop\tp3\Quinteros.Axel.2A.TP3\Archivos\bin\Debug\Clases Abstractas.dll
+C:\Users\Axelh\Desktop\tp3\Quinteros.Axel.2A.TP3\Archivos\bin\Debug\Excepciones.dll
+C:\Users\Axelh\Desktop\tp3\Quinteros.Axel.2A.TP3\Archivos\bin\Debug\Clases Abstractas.pdb
+C:\Users\Axelh\Desktop\tp3\Quinteros.Axel.2A.TP3\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\Axelh\Desktop\tp3\Quinteros.Axel.2A.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\Axelh\Desktop\tp3\Quinteros.Axel.2A.TP3\Archivos\obj\Debug\Archivos.pdb
+C:\Users\Axelh\Desktop\tp3\Quinteros.Axel.2A.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\Axelh\Desktop\tp3 para entregar\tp3\Quinteros.Axel.2A.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\Axelh\Desktop\tp3 para entregar\tp3\Quinteros.Axel.2A.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Axelh\Desktop\tp3 para entregar\tp3\Quinteros.Axel.2A.TP3\Archivos\bin\Debug\Clases Abstractas.dll
+C:\Users\Axelh\Desktop\tp3 para entregar\tp3\Quinteros.Axel.2A.TP3\Archivos\bin\Debug\Excepciones.dll
+C:\Users\Axelh\Desktop\tp3 para entregar\tp3\Quinteros.Axel.2A.TP3\Archivos\bin\Debug\Clases Abstractas.pdb
+C:\Users\Axelh\Desktop\tp3 para entregar\tp3\Quinteros.Axel.2A.TP3\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\Axelh\Desktop\tp3 para entregar\tp3\Quinteros.Axel.2A.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\Axelh\Desktop\tp3 para entregar\tp3\Quinteros.Axel.2A.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\Axelh\Desktop\tp3 para entregar\tp3\Quinteros.Axel.2A.TP3\Archivos\obj\Debug\Archivos.pdb

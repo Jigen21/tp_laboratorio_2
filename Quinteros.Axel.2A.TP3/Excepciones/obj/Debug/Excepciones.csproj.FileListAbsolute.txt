@@ -1,0 +1,4 @@
+C:\Users\Axelh\Desktop\tp3\Quinteros.Axel.2A.TP3\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\Axelh\Desktop\tp3\Quinteros.Axel.2A.TP3\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Axelh\Desktop\tp3\Quinteros.Axel.2A.TP3\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\Axelh\Desktop\tp3\Quinteros.Axel.2A.TP3\Excepciones\obj\Debug\Excepciones.pdb
