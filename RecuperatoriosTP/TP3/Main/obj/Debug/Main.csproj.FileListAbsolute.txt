@@ -1,0 +1,43 @@
+C:\Users\Axelh\Desktop\tp3\Quinteros.Axel.2A.TP3\Main\bin\Debug\Main.exe.config
+C:\Users\Axelh\Desktop\tp3\Quinteros.Axel.2A.TP3\Main\bin\Debug\Main.exe
+C:\Users\Axelh\Desktop\tp3\Quinteros.Axel.2A.TP3\Main\bin\Debug\Main.pdb
+C:\Users\Axelh\Desktop\tp3\Quinteros.Axel.2A.TP3\Main\obj\Debug\Main.exe
+C:\Users\Axelh\Desktop\tp3\Quinteros.Axel.2A.TP3\Main\obj\Debug\Main.pdb
+C:\Users\Axelh\Desktop\tp3\Quinteros.Axel.2A.TP3\Main\bin\Debug\Clases Abstractas.dll
+C:\Users\Axelh\Desktop\tp3\Quinteros.Axel.2A.TP3\Main\bin\Debug\Clases instanciables.dll
+C:\Users\Axelh\Desktop\tp3\Quinteros.Axel.2A.TP3\Main\bin\Debug\Excepciones.dll
+C:\Users\Axelh\Desktop\tp3\Quinteros.Axel.2A.TP3\Main\bin\Debug\Clases Abstractas.pdb
+C:\Users\Axelh\Desktop\tp3\Quinteros.Axel.2A.TP3\Main\bin\Debug\Clases instanciables.pdb
+C:\Users\Axelh\Desktop\tp3\Quinteros.Axel.2A.TP3\Main\bin\Debug\Excepciones.pdb
+C:\Users\Axelh\Desktop\tp3\Quinteros.Axel.2A.TP3\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\Axelh\Desktop\tp3\Quinteros.Axel.2A.TP3\Main\bin\Debug\Archivos.dll
+C:\Users\Axelh\Desktop\tp3\Quinteros.Axel.2A.TP3\Main\bin\Debug\Archivos.pdb
+C:\Users\Axelh\Desktop\tp3 para entregar\tp3\Quinteros.Axel.2A.TP3\Main\bin\Debug\Main.exe.config
+C:\Users\Axelh\Desktop\tp3 para entregar\tp3\Quinteros.Axel.2A.TP3\Main\obj\Debug\Main.exe
+C:\Users\Axelh\Desktop\tp3 para entregar\tp3\Quinteros.Axel.2A.TP3\Main\obj\Debug\Main.pdb
+C:\Users\Axelh\Desktop\tp3 para entregar\tp3\Quinteros.Axel.2A.TP3\Main\bin\Debug\Main.exe
+C:\Users\Axelh\Desktop\tp3 para entregar\tp3\Quinteros.Axel.2A.TP3\Main\bin\Debug\Main.pdb
+C:\Users\Axelh\Desktop\tp3 para entregar\tp3\Quinteros.Axel.2A.TP3\Main\bin\Debug\Clases Abstractas.dll
+C:\Users\Axelh\Desktop\tp3 para entregar\tp3\Quinteros.Axel.2A.TP3\Main\bin\Debug\Clases instanciables.dll
+C:\Users\Axelh\Desktop\tp3 para entregar\tp3\Quinteros.Axel.2A.TP3\Main\bin\Debug\Excepciones.dll
+C:\Users\Axelh\Desktop\tp3 para entregar\tp3\Quinteros.Axel.2A.TP3\Main\bin\Debug\Archivos.dll
+C:\Users\Axelh\Desktop\tp3 para entregar\tp3\Quinteros.Axel.2A.TP3\Main\bin\Debug\Clases Abstractas.pdb
+C:\Users\Axelh\Desktop\tp3 para entregar\tp3\Quinteros.Axel.2A.TP3\Main\bin\Debug\Clases instanciables.pdb
+C:\Users\Axelh\Desktop\tp3 para entregar\tp3\Quinteros.Axel.2A.TP3\Main\bin\Debug\Excepciones.pdb
+C:\Users\Axelh\Desktop\tp3 para entregar\tp3\Quinteros.Axel.2A.TP3\Main\bin\Debug\Archivos.pdb
+C:\Users\Axelh\Desktop\tp3 para entregar\tp3\Quinteros.Axel.2A.TP3\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\Axelh\Desktop\mis tps a arreglar\tp_laboratorio_2-master\Quinteros.Axel.2A.TP3\Main\bin\Debug\Main.exe.config
+C:\Users\Axelh\Desktop\mis tps a arreglar\tp_laboratorio_2-master\Quinteros.Axel.2A.TP3\Main\bin\Debug\Main.exe
+C:\Users\Axelh\Desktop\mis tps a arreglar\tp_laboratorio_2-master\Quinteros.Axel.2A.TP3\Main\bin\Debug\Main.pdb
+C:\Users\Axelh\Desktop\mis tps a arreglar\tp_laboratorio_2-master\Quinteros.Axel.2A.TP3\Main\bin\Debug\Clases Abstractas.dll
+C:\Users\Axelh\Desktop\mis tps a arreglar\tp_laboratorio_2-master\Quinteros.Axel.2A.TP3\Main\bin\Debug\Clases instanciables.dll
+C:\Users\Axelh\Desktop\mis tps a arreglar\tp_laboratorio_2-master\Quinteros.Axel.2A.TP3\Main\bin\Debug\Excepciones.dll
+C:\Users\Axelh\Desktop\mis tps a arreglar\tp_laboratorio_2-master\Quinteros.Axel.2A.TP3\Main\bin\Debug\Archivos.dll
+C:\Users\Axelh\Desktop\mis tps a arreglar\tp_laboratorio_2-master\Quinteros.Axel.2A.TP3\Main\bin\Debug\Clases Abstractas.pdb
+C:\Users\Axelh\Desktop\mis tps a arreglar\tp_laboratorio_2-master\Quinteros.Axel.2A.TP3\Main\bin\Debug\Clases instanciables.pdb
+C:\Users\Axelh\Desktop\mis tps a arreglar\tp_laboratorio_2-master\Quinteros.Axel.2A.TP3\Main\bin\Debug\Excepciones.pdb
+C:\Users\Axelh\Desktop\mis tps a arreglar\tp_laboratorio_2-master\Quinteros.Axel.2A.TP3\Main\bin\Debug\Archivos.pdb
+C:\Users\Axelh\Desktop\mis tps a arreglar\tp_laboratorio_2-master\Quinteros.Axel.2A.TP3\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\Axelh\Desktop\mis tps a arreglar\tp_laboratorio_2-master\Quinteros.Axel.2A.TP3\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\Axelh\Desktop\mis tps a arreglar\tp_laboratorio_2-master\Quinteros.Axel.2A.TP3\Main\obj\Debug\Main.exe
+C:\Users\Axelh\Desktop\mis tps a arreglar\tp_laboratorio_2-master\Quinteros.Axel.2A.TP3\Main\obj\Debug\Main.pdb

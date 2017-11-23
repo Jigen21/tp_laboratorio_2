@@ -1,0 +1,34 @@
+C:\Users\Axelh\Desktop\tp3\Quinteros.Axel.2A.TP3\Clases instanciables\obj\Debug\Clases instanciables.csprojResolveAssemblyReference.cache
+C:\Users\Axelh\Desktop\tp3\Quinteros.Axel.2A.TP3\Clases instanciables\bin\Debug\Clases instanciables.dll
+C:\Users\Axelh\Desktop\tp3\Quinteros.Axel.2A.TP3\Clases instanciables\bin\Debug\Clases instanciables.pdb
+C:\Users\Axelh\Desktop\tp3\Quinteros.Axel.2A.TP3\Clases instanciables\bin\Debug\Clases Abstractas.dll
+C:\Users\Axelh\Desktop\tp3\Quinteros.Axel.2A.TP3\Clases instanciables\bin\Debug\Excepciones.dll
+C:\Users\Axelh\Desktop\tp3\Quinteros.Axel.2A.TP3\Clases instanciables\bin\Debug\Clases Abstractas.pdb
+C:\Users\Axelh\Desktop\tp3\Quinteros.Axel.2A.TP3\Clases instanciables\bin\Debug\Excepciones.pdb
+C:\Users\Axelh\Desktop\tp3\Quinteros.Axel.2A.TP3\Clases instanciables\obj\Debug\Clases instanciables.dll
+C:\Users\Axelh\Desktop\tp3\Quinteros.Axel.2A.TP3\Clases instanciables\obj\Debug\Clases instanciables.pdb
+C:\Users\Axelh\Desktop\tp3\Quinteros.Axel.2A.TP3\Clases instanciables\bin\Debug\Archivos.dll
+C:\Users\Axelh\Desktop\tp3\Quinteros.Axel.2A.TP3\Clases instanciables\bin\Debug\Archivos.pdb
+C:\Users\Axelh\Desktop\tp3 para entregar\tp3\Quinteros.Axel.2A.TP3\Clases instanciables\bin\Debug\Clases instanciables.dll
+C:\Users\Axelh\Desktop\tp3 para entregar\tp3\Quinteros.Axel.2A.TP3\Clases instanciables\bin\Debug\Clases instanciables.pdb
+C:\Users\Axelh\Desktop\tp3 para entregar\tp3\Quinteros.Axel.2A.TP3\Clases instanciables\bin\Debug\Archivos.dll
+C:\Users\Axelh\Desktop\tp3 para entregar\tp3\Quinteros.Axel.2A.TP3\Clases instanciables\bin\Debug\Clases Abstractas.dll
+C:\Users\Axelh\Desktop\tp3 para entregar\tp3\Quinteros.Axel.2A.TP3\Clases instanciables\bin\Debug\Excepciones.dll
+C:\Users\Axelh\Desktop\tp3 para entregar\tp3\Quinteros.Axel.2A.TP3\Clases instanciables\bin\Debug\Archivos.pdb
+C:\Users\Axelh\Desktop\tp3 para entregar\tp3\Quinteros.Axel.2A.TP3\Clases instanciables\bin\Debug\Clases Abstractas.pdb
+C:\Users\Axelh\Desktop\tp3 para entregar\tp3\Quinteros.Axel.2A.TP3\Clases instanciables\bin\Debug\Excepciones.pdb
+C:\Users\Axelh\Desktop\tp3 para entregar\tp3\Quinteros.Axel.2A.TP3\Clases instanciables\obj\Debug\Clases instanciables.csprojResolveAssemblyReference.cache
+C:\Users\Axelh\Desktop\tp3 para entregar\tp3\Quinteros.Axel.2A.TP3\Clases instanciables\obj\Debug\Clases instanciables.dll
+C:\Users\Axelh\Desktop\tp3 para entregar\tp3\Quinteros.Axel.2A.TP3\Clases instanciables\obj\Debug\Clases instanciables.pdb
+C:\Users\Axelh\Desktop\mis tps a arreglar\tp_laboratorio_2-master\Quinteros.Axel.2A.TP3\Clases instanciables\bin\Debug\Clases instanciables.dll
+C:\Users\Axelh\Desktop\mis tps a arreglar\tp_laboratorio_2-master\Quinteros.Axel.2A.TP3\Clases instanciables\bin\Debug\Clases instanciables.pdb
+C:\Users\Axelh\Desktop\mis tps a arreglar\tp_laboratorio_2-master\Quinteros.Axel.2A.TP3\Clases instanciables\bin\Debug\Archivos.dll
+C:\Users\Axelh\Desktop\mis tps a arreglar\tp_laboratorio_2-master\Quinteros.Axel.2A.TP3\Clases instanciables\bin\Debug\Clases Abstractas.dll
+C:\Users\Axelh\Desktop\mis tps a arreglar\tp_laboratorio_2-master\Quinteros.Axel.2A.TP3\Clases instanciables\bin\Debug\Excepciones.dll
+C:\Users\Axelh\Desktop\mis tps a arreglar\tp_laboratorio_2-master\Quinteros.Axel.2A.TP3\Clases instanciables\bin\Debug\Archivos.pdb
+C:\Users\Axelh\Desktop\mis tps a arreglar\tp_laboratorio_2-master\Quinteros.Axel.2A.TP3\Clases instanciables\bin\Debug\Clases Abstractas.pdb
+C:\Users\Axelh\Desktop\mis tps a arreglar\tp_laboratorio_2-master\Quinteros.Axel.2A.TP3\Clases instanciables\bin\Debug\Excepciones.pdb
+C:\Users\Axelh\Desktop\mis tps a arreglar\tp_laboratorio_2-master\Quinteros.Axel.2A.TP3\Clases instanciables\obj\Debug\Clases instanciables.csprojResolveAssemblyReference.cache
+C:\Users\Axelh\Desktop\mis tps a arreglar\tp_laboratorio_2-master\Quinteros.Axel.2A.TP3\Clases instanciables\obj\Debug\Clases instanciables.csproj.CoreCompileInputs.cache
+C:\Users\Axelh\Desktop\mis tps a arreglar\tp_laboratorio_2-master\Quinteros.Axel.2A.TP3\Clases instanciables\obj\Debug\Clases instanciables.dll
+C:\Users\Axelh\Desktop\mis tps a arreglar\tp_laboratorio_2-master\Quinteros.Axel.2A.TP3\Clases instanciables\obj\Debug\Clases instanciables.pdb

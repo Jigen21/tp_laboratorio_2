@@ -1,0 +1,12 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\Quinteros.Axel.2A.TP3\Quinteros.Axel.2A.TP3\bin\Debug\Quinteros.Axel.2A.TP3.exe.config
+D:\Mis Documentos\Visual Studio 2012\Projects\Quinteros.Axel.2A.TP3\Quinteros.Axel.2A.TP3\obj\Debug\Quinteros.Axel.2A.TP3.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Visual Studio 2012\Projects\Quinteros.Axel.2A.TP3\Quinteros.Axel.2A.TP3\bin\Debug\Quinteros.Axel.2A.TP3.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\Quinteros.Axel.2A.TP3\Quinteros.Axel.2A.TP3\bin\Debug\Quinteros.Axel.2A.TP3.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Quinteros.Axel.2A.TP3\Quinteros.Axel.2A.TP3\obj\Debug\Quinteros.Axel.2A.TP3.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\Quinteros.Axel.2A.TP3\Quinteros.Axel.2A.TP3\obj\Debug\Quinteros.Axel.2A.TP3.pdb
+C:\Users\Axelh\Desktop\tp3\Quinteros.Axel.2A.TP3\Quinteros.Axel.2A.TP3\bin\Debug\Quinteros.Axel.2A.TP3.exe.config
+C:\Users\Axelh\Desktop\tp3\Quinteros.Axel.2A.TP3\Quinteros.Axel.2A.TP3\obj\Debug\Quinteros.Axel.2A.TP3.exe
+C:\Users\Axelh\Desktop\tp3\Quinteros.Axel.2A.TP3\Quinteros.Axel.2A.TP3\obj\Debug\Quinteros.Axel.2A.TP3.pdb
+C:\Users\Axelh\Desktop\tp3\Quinteros.Axel.2A.TP3\Quinteros.Axel.2A.TP3\obj\Debug\Quinteros.Axel.2A.TP3.csprojResolveAssemblyReference.cache
+C:\Users\Axelh\Desktop\tp3\Quinteros.Axel.2A.TP3\Quinteros.Axel.2A.TP3\bin\Debug\Quinteros.Axel.2A.TP3.exe
+C:\Users\Axelh\Desktop\tp3\Quinteros.Axel.2A.TP3\Quinteros.Axel.2A.TP3\bin\Debug\Quinteros.Axel.2A.TP3.pdb

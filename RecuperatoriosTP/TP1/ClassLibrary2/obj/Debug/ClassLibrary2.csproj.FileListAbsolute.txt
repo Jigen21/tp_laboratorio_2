@@ -1,0 +1,10 @@
+c:\users\axelh\onedrive\documentos\visual studio 2012\Projects\Calculadora\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+c:\users\axelh\onedrive\documentos\visual studio 2012\Projects\Calculadora\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+c:\users\axelh\onedrive\documentos\visual studio 2012\Projects\Calculadora\ClassLibrary2\obj\Debug\ClassLibrary2.csprojResolveAssemblyReference.cache
+c:\users\axelh\onedrive\documentos\visual studio 2012\Projects\Calculadora\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+c:\users\axelh\onedrive\documentos\visual studio 2012\Projects\Calculadora\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\Axelh\Desktop\Calculadora\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\Axelh\Desktop\Calculadora\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\Axelh\Desktop\Calculadora\ClassLibrary2\obj\Debug\ClassLibrary2.csprojResolveAssemblyReference.cache
+C:\Users\Axelh\Desktop\Calculadora\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\Axelh\Desktop\Calculadora\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
