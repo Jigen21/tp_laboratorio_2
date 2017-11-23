@@ -36,13 +36,11 @@ namespace Hilo
                 cliente.DownloadProgressChanged += WebClientDownloadProgressChanged;
                 cliente.DownloadStringCompleted += WebClientDownloadCompleted;
 
-                cliente.DownloadStringAsync(this.direccion, this.html);
+                cliente.DownloadStringAsync(this.direccion);
                 
             }
-            catch (System.Reflection.TargetInvocationException e)
-            {
-                this.direccion = new Uri("about:blank");
-            }
+           
+
             catch (Exception e)
             {
                 throw e;
@@ -60,7 +58,17 @@ namespace Hilo
         public event EndProgress end;
         private void WebClientDownloadCompleted(object sender, DownloadStringCompletedEventArgs e)
         {
-            end(e.Result);
+            try
+            {
+                this.html = e.Result;             
+                end(this.html);
+                 
+            }
+            catch (Exception m)
+            {
+                end.Invoke("No se encuentra este sitio");
+            }
+            
             
         }
 
